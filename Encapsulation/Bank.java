@@ -28,6 +28,7 @@ private double balance;
   public void deposit(double amount) {
 	  balance +=amount;
 	  System.out.println("deposit sucessful.new balance "+balance);
+	  System.out.println("deposit sucessful.new balance "+balance);
   }
   
 }
